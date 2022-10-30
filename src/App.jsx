@@ -1,10 +1,10 @@
 
-
+import Navbar from "./components/index"
 function App() {
 
   return (
     <>
-      <h1>Lucas</h1>
+    <Navbar/>
     </>
   )
 }
